@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-👉 https://RyanChen0311.github.io/discount_per/
+👉 https://ryanchen0311.github.io/discount_per/
 
 ---
 
